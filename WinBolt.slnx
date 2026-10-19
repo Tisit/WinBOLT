@@ -1,0 +1,17 @@
+﻿<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WinBolt.Cli/WinBolt.Cli.csproj" />
+    <Project Path="src/WinBolt.Core/WinBolt.Core.csproj" />
+    <Project Path="src/WinBolt.Pdb/WinBolt.Pdb.csproj" />
+    <Project Path="src/WinBolt.Pe/WinBolt.Pe.csproj" />
+    <Project Path="src/WinBolt.Profile/WinBolt.Profile.csproj" />
+    <Project Path="src/WinBolt.Rewrite/WinBolt.Rewrite.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WinBolt.Core.Tests/WinBolt.Core.Tests.csproj" />
+    <Project Path="tests/WinBolt.Pdb.Tests/WinBolt.Pdb.Tests.csproj" />
+    <Project Path="tests/WinBolt.Pe.Tests/WinBolt.Pe.Tests.csproj" />
+    <Project Path="tests/WinBolt.Profile.Tests/WinBolt.Profile.Tests.csproj" />
+    <Project Path="tests/WinBolt.Rewrite.Tests/WinBolt.Rewrite.Tests.csproj" />
+  </Folder>
+</Solution>

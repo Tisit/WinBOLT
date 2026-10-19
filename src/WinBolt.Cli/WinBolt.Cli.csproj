@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WinBolt.Core\WinBolt.Core.csproj" />
+    <ProjectReference Include="..\WinBolt.Pe\WinBolt.Pe.csproj" />
+    <ProjectReference Include="..\WinBolt.Pdb\WinBolt.Pdb.csproj" />
+    <ProjectReference Include="..\WinBolt.Profile\WinBolt.Profile.csproj" />
+    <ProjectReference Include="..\WinBolt.Rewrite\WinBolt.Rewrite.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

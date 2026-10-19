@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+artifacts/
+_FOSSIL_
+*.fossil
+.claude/
